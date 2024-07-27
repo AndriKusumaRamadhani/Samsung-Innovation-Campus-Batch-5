@@ -1,5 +1,0 @@
-Berikut ini adalah code untuk esp32
-hal yang harus diubah adalah
--ssid
--password
--serverName
