@@ -1,0 +1,1 @@
+Sebelum run(.ipynb) upload terlebih dahulu ("datav1java") untuk data set dari model Traning tersebut
