@@ -1,0 +1,1 @@
+sebelum melakukan run untuk streamlit masuk terlebih dahulu model traning dari AI("modelv1java.pkl")
